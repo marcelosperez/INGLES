@@ -1,2 +1,2 @@
 # INGLES
- Versão de textos, gramática, vocabulário, etc
+ Versão de textos, gramática, vocabulário
