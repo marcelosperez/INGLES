@@ -1,10 +1,14 @@
 Pré-Vocabulário:
 -----------------------
-
+psiquiatra = psychiatrist
+ocultar = conceal
+racing thoughts = pensamentos repetitivos
+device = dispositivo
 
 Português:
 ----------------
-
+Quando o dr. Charles Nemeroff encontrou-se com sua paciente pela primeira vez, a mulher de 32 anos havia consultado vários psiquiatras. Inicialmente, a mulher, cuja identidade foi ocultada para proteger sua privacidade, havia tido pensamentos paranoicos e repetitivos, insistindo que havia dispositivos de escuta em seu telefone e que as pessoas a estavam observando; ela até vendeu sua casa na tentativa de fugir delas. Depois de receber drogas antipsicóticas, sua mania e psicose diminuíram, mas foram substituídas por uma depressão debilitante.
 
 Inglês:
 -----------
+When Dr. Charles Nemeroff first met his patient, the 32-year-old woman had already been to see several psychiatrists. Initially, the woman, whose identity has been concealed to protect her privacy, had experienced paranoid and racing thoughts, insisting there were listening devices in her phone and that people were watching her; she even sold her home in an attempt to get away from them. After being given antipsychotic drugs, her mania and psychosis abated, but they were replaced by debilitating depression.
