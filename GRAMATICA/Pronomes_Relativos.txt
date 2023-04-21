@@ -1,0 +1,18 @@
+fonte:
+https://linguapress.com/grammar/relative-clauses.htm
+
+1) O pronome relativo é o SUJEITO da frase
+    a) O sujeito é HUMANO = WHO
+    b) O sujeito é INANIMADO = WHICH ou THAT
+         Exemplos:
+           The man WHO lives next door is 99.
+           The book WHICH/THAT is on the table is new.
+        Exceção:
+           Em inglês americano, THAT pode ser usado na linguagem informal:
+           The man THAT lives next door is 99. 
+        Omissão:
+           Na posição de sujeito, ambos podem ser omitidos: 
+           The man next door is 99.
+           The book on the table is new.
+
+
