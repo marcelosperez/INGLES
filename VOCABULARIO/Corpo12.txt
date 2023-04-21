@@ -1,4 +1,7 @@
 corpo12
 
+pescoço = neck
+peito = chest
+barriga = belly
 
 
