@@ -1,8 +1,0 @@
-Corpo13
-
-ombro = shoulder
-nuca = nape
-braço = arm
-cotovelo = elbow
-costas = back
-axila = armpit
